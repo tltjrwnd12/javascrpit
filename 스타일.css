@@ -1,0 +1,33 @@
+
+a {display: inline-block;
+    margin-right: 15px;
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #001f3f;
+    border-radius: 5px;}
+
+    
+body {font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;}
+
+.c { max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;}
+    
+header, footer {background-color: #001f3f;
+    color: white;
+    padding: 1em 0;
+    text-align: center;}
+
+main {margin: 20px 0;}
+
+form {display: grid;
+    gap: 10px;}
+
+button {padding: 10px;
+    background-color: #001f3f;
+    color: white;
+    border: none;
+    cursor: pointer;}
